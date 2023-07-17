@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021 (64-Bit Evaluation Version) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200mm" height="150mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 20000 15000.01"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#008001}
+    .fil1 {fill:#FCFFFD}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="2109.37" y="4511.72" width="12792.98" height="6738.28"/>
+   </clipPath>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g style="clip-path:url(#id0)">
+   <image id="Captureon.PNG" x="2109.37" y="4511.71" width="12792.99" height="6738.3" xlink:href="newcapon_Images\newcapon_ImgID1.png"/>
+  </g>
+  <path class="fil0" d="M5233.21 11250.01l6687.7 0c617.63,-331.96 1493.62,-421.14 2150.23,-1645.48 510.18,-951.24 563.2,-2121.03 111.72,-3114.61 -1067.13,-2348.55 -3367.66,-1901.08 -5552.8,-1901.08 -2556.46,0 -4505.19,-385.95 -5590.63,1858.92 -469.06,970.12 -442.63,2186.78 91.89,3152.86 722.05,1305.04 1560.27,1310.19 2101.88,1649.4z"/>
+  <path class="fil1" d="M2109.37 11250.01l3123.84 0c-541.61,-339.21 -1379.83,-344.35 -2101.88,-1649.4 -534.52,-966.08 -560.95,-2182.74 -91.89,-3152.86 1085.44,-2244.87 3034.17,-1858.92 5590.63,-1858.92 2185.14,0 4485.67,-447.47 5552.8,1901.08 451.48,993.58 398.45,2163.37 -111.72,3114.61 -656.62,1224.33 -1532.61,1313.51 -2150.23,1645.48l2981.44 0 0 -6738.28 -12792.98 0 0 6738.28z"/>
+  <path class="fil1" d="M10785.33 5772.74c-2725.88,635.37 -1808.11,5018.14 985.24,4337.5 1018.27,-248.13 1862.33,-1337.91 1603.78,-2635.16 -231.32,-1160.49 -1308.12,-2000.92 -2589.01,-1702.34z"/>
+ </g>
+</svg>
